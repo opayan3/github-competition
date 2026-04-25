@@ -1,0 +1,25 @@
+This file is hidden in darkness.
+
+Rename this file to reveal what lies beneath.
+
+The temple walls are covered in markings. NOT all paths are straight.
+
+Find what is hidden.
+
+T  R  M  A  P  Q  L  X  Z  H  V  B  N  C  Y
+A  E  O  S  L  D  K  W  U  R  F  J  T  M  P
+Q  H  G  I  N  C  V  B  N  M  L  K  J  H  G
+W  Y  U  T  R  A  S  A  N  B  D  F  G  H  J
+E  R  T  Y  U  I  K  P  L  K  J  H  G  F  D
+Z  X  C  V  B  N  M  E  W  E  R  T  Y  U  I
+A  S  D  F  G  H  J  K  L  Z  X  C  V  B  N
+Q  W  E  R  T  Y  U  I  O  P  A  S  D  F  G
+L  K  J  H  G  F  D  S  A  Q  W  E  R  T  Y
+P  O  I  U  Y  T  R  E  W  Q  L  K  J  H  G
+M  N  B  V  C  X  Z  A  S  D  F  G  H  J  K
+H  G  F  D  S  A  Q  W  E  R  T  Y  U  I  O
+J  K  L  M  N  B  V  C  X  Z  A  S  D  F  G
+R  T  Y  U  I  O  P  L  K  J  H  G  F  D  S
+C  V  B  N  M  A  Q  W  E  R  T  Y  U  I  O
+
+The hidden word is not your final answer. Take its first letter as your clue fragment.
